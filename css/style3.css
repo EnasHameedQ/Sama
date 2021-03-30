@@ -1,0 +1,45 @@
+#body{
+background-color: #ebebe0;
+	
+	
+
+}
+
+
+#wrapper
+{
+	width:default;
+    height:200px;
+   	
+}
+#middle
+{    
+
+	width:600px;
+	height:500px;
+    border-radius:13px 13px 13px 13px;
+    background-color:whait;
+	margin:20px 220px  20px 350px;
+
+
+}
+#div1{
+	padding-right:10px;
+}
+
+
+a:link {color:black ;text-decoration: none; }
+a:visited {color:black;}
+a:hover{color:red;}
+
+
+#top
+{
+        
+     	width:default;
+	   height:default;
+    
+       
+}
+
+

@@ -1,0 +1,104 @@
+body{
+	
+	background-color: #ebebe0;
+}
+
+
+
+#wrapper
+{
+	width:default;
+    height:200px;
+   	
+}
+#middle
+{    
+    position:center;
+	width:600px;
+	height:310px;
+    border-radius:13px 13px 13px 13px;
+    background-image:url("../images/p.jpg");
+	margin:180px 10px 10px 380px;
+	
+
+}
+#border
+{
+	border-color:red;
+}
+
+
+
+#div1
+{
+	width:600px;
+	 height:100px;
+}
+
+#div2
+{    
+	 background-color:white;
+	 width:600px;
+	   height:100px;
+	   float:center;
+	  padding-top:10px;
+}
+
+#div3
+{
+	width:600px;
+	   height:110px;
+}
+
+#s
+{
+
+position: absolute;
+margin-top:10px;
+margin-left:10px;
+margin-right:10px;
+border-radius: 5px;
+ background-color:#F0E68C;
+ width:100px;
+ height:20px;
+color:red;
+text-align:center;
+}
+
+a:link {color:red;text-decoration: none;}
+a:visited {color:red;}
+a:hover{color: black;}
+
+ #pic{
+ 
+				line-height:30px;
+				background-color:#ffffcc;
+				height:100px;
+				width:100%;
+				float:right;
+				padding:5px;
+				margin:10px;
+				
+                border-radius: 10px;
+ }
+ 	#w{
+ 
+				line-height:30px;
+				background-color:#ffffcc;
+				height:600px;
+				width:70%;
+				padding:8px;
+				margin:500px;
+				border-radius: 15px;
+				margin:0px 200px 200px 200px; /* for place's big div*/
+               
+ }
+ 
+  #loc {
+				width:55%;
+				height:460px;
+				color:#000;
+				background-color:#pink;
+				float:left;
+				padding:10px;	 	 
+	}
